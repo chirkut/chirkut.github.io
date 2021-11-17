@@ -1,7 +1,7 @@
 ---
 layout: page
 title: menu
-permalink: /test/menu/
+permalink: /menu/
 ---
 
 test menu
